@@ -1,0 +1,14 @@
+layout_spectrum: 0.1433942
+color:
+  saturation: 0.3227712
+  lightness: 0.9440573
+  brandStrength: 0.3324382
+  brandColors:
+    - '#010101'
+    - '#EF4F5B'
+    - '#6FCADD'
+    - '#FFFFFF'
+    - '#FBA1BB'
+  rhythmicContrast: 0.82845
+typography_spectrum: 0.3141783
+name: 'Allytradinggroup '
